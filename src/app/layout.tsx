@@ -30,7 +30,7 @@ const RootLayout = ({
           <p>Copyright © {currentYear}</p>
           <a
             className='ml-2 underline decoration-light decoration-wavy underline-offset-4 hover:decoration-lighter'
-            href="https://github.com/esau-morais/next-os"
+            href="https://imaginai.vercel.app"
             target="_blank"
             rel="noreferrer"
           >

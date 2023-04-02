@@ -44,7 +44,7 @@ const ImageGenerator = () => {
         <input
           autoComplete='off'
           className='h-[72px] w-full rounded-full border border-light bg-[transparent] px-6 py-3'
-          placeholder='ui illustration brutalism people'
+          placeholder='ui illustration people'
           {...register('prompt')}
         />
         {errors.prompt ? (
